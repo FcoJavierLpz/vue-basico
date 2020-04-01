@@ -527,7 +527,7 @@ new Vue({
 **vue ui.**  Genera una aplicación web local, que mediante una interfaz de usuario permite gestionar los proyectos de Vue.
 preset. A medida que van creando proyectos con determinada configuración, el cli de vue permite guardar esa configuración para más adelante poder utilizarla al momento de crear un proyecto.
 
-## Introducción y Setup de Tailwind CSS
+## Setup Tailwind CSS
 
 Tailwind CSS, es un framework de utilidad basada en clases.
 
